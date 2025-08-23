@@ -36,7 +36,7 @@ Repository contents:
    - Left-click tiles to uncover them.  
 
 3. **Flag Mines**  
-   - Right-click tiles to mark or unmark suspected mines.  
+   - Mark or unmark suspected mines.  
 
 4. **Objective**  
    - Reveal all safe tiles without clicking on any mines!  
