@@ -70,11 +70,11 @@ function clickTile() {
 function setFlag() {
     if (flagEnabled) {
         flagEnabled = false;
-        document.getElementById("flag-button").style.backgroundColor = "white";
+        document.getElementById("flag-button").style.backgroundColor = "#5a3d8a";
     }
     else {
         flagEnabled = true;
-        document.getElementById("flag-button").style.backgroundColor = "#5a3d8a";
+        document.getElementById("flag-button").style.backgroundColor = "white";
     }
 }
 
