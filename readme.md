@@ -4,8 +4,9 @@ A **simple Minesweeper game** built with vanilla JavaScript, HTML, and CSS.
 Play the classic puzzle where you reveal tiles, avoid hidden mines, and flag suspicious spots!
 
 https://gittisha.github.io/Minesweeper/
-
 Link to play directly
+
+
 ---
 
 ## Features
